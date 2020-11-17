@@ -1,0 +1,16 @@
+.content {
+    min-height: calc(100vh - 70px);
+}
+
+.footer {
+    height: 50px;
+}
+
+.fiserv-orange {
+    color: #ff5800;
+}
+
+.btn.form-group-offset {
+    position: relative;
+    top: 31px;
+}
